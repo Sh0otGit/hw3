@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Boardtest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-25T02:39:55" hostname="Matthews-MBP-6.lan" time="0.018">
+  <properties/>
+  <testcase name="Check if a winning row exists on the board for testPlayer." classname="Boardtest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
